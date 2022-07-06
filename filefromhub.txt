@@ -1,0 +1,3 @@
+this file is created from github directly.
+now you have to add this file in your local repository
+for that git pull origin will be used . so that the file which is added will show in your local repo.
